@@ -1,3 +1,5 @@
+## This repository is for historical reference only. Please use https://codeberg.org/Freedium-cfd/web/
+
 <p align="center"><a href="https://freedium.cfd" target="_blank"><img src="https://avatars.githubusercontent.com/u/142643505?s=200&v=4" width="20%"></a></p>
 
 <h1 align="center">Freedium: Your paywall breakthrough for Medium!</h1>
